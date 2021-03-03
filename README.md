@@ -15,3 +15,6 @@ git merge merges lines of development together. This command is typically used t
 git pull updates the local line of development with updates from its remote counterpart. Developers use this command if a teammate has made commits to a branch on a remote, and they would like to reflect those changes in their local environment.
 
 git push updates the remote repository with any commits made locally to a branch.
+
+
+we will dive into this topic soon....
